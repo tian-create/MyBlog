@@ -1,7 +1,7 @@
 ---
 title: JavaScript - 什么是JavaScript？
-tags: 
-categories: js
+tags: JavaScript历史
+categories: javascript
 ---
 #### JavaScript历史
 在上个世纪的1995年，当时的网景公司正凭借其Navigator浏览器成为Web时代开启时最著名的第一代互联网公司。

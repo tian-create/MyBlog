@@ -1,7 +1,7 @@
 ---
 title: JavaScript - 条件语句
-tags: 条件语句
-categories: js
+tags: js条件语句
+categories: javascript
 ---
 
 ### 条件语句

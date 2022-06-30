@@ -1,7 +1,7 @@
 ---
 title: JavaScript - 基础语法
-tags: 基础语法
-categories: js
+tags: js基础语法
+categories: javascript
 ---
 ## 基本语法
 1. JavaScript是区分大小写的（HTML和CSS不区分大小写）

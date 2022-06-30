@@ -1,7 +1,7 @@
 ---
 title: JavaScript -函数
-tags: 函数
-categories: js
+tags: [function, '函数']
+categories: javascript
 ---
 
 ## 函数

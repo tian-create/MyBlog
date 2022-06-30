@@ -1,7 +1,7 @@
 ---
 title: JavaScript - 数组
-tags: 数组
-categories: js
+tags: Array
+categories: javascript
 ---
 ## 数组
 > 什么是数组？通过字面的意义直面理解数组就是把数据组合在一起
